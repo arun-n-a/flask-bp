@@ -1,5 +1,5 @@
 # flask-bp
-Boiler plate for Flask
+Boilerplate for Flask
 
 Pre-requirement:
   
